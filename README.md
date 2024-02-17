@@ -7,7 +7,7 @@ A copy of my C.V. can be found [here](assets/img/website_CV_2.pdf). (Last update
 
 ## Work in Progress
 1. Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen. [Tensor Completion via Integer Optimization](https://arxiv.org/abs/2402.05141).
-<sup><sub>(* equal contribution)</sub></sup>
+<sub>(* equal contribution)</sub>
 
 4. Xin Chen, Cheng Ren, Tim Thomas. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums.
 
