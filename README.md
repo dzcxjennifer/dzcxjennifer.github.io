@@ -3,7 +3,7 @@
 I am a senior at UC Berkeley Majoring in Industrial Engineering and Operations Research. At Berkeley, I am fortunate to conduct research under the supervision of [Anil Aswani](https://vcresearch.berkeley.edu/faculty/anil-aswani), [Abhishek Nagaraj](https://www.abhishekn.com), and [Cheng Ren](https://www.albany.edu/ssw/faculty/cheng-ren).
 
 ## CURRICULUM VITAE
-A copy of my C.V. can be found here. (Last updated: Feb 2024)
+A copy of my C.V. can be found [here](assets/img/website_CV_2.pdf). (Last updated: Feb 2024)
 
 ## Work in Progress
 1. Xin Chen, Sukanya Kudva, Yongzheng Dai, Anil Aswani, Chen Chen. [Tensor Completion via Integer Optimization](https://arxiv.org/abs/2402.05141).
