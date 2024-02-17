@@ -4,5 +4,7 @@ I am a senior at UC Berkeley Majoring in Industrial Engineering and Operations R
 
 ## Work in Progress
 **Xin Chen, Sukanya Kudva, Yongzheng Dai, Anil Aswani, Chen Chen. [Tensor Completion via Integer Optimization](https://arxiv.org/abs/2402.05141).
+
 **Xin Chen, Cheng Ren, Tim Thomas. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums.
+
 **Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. Optimizing End-of-Life Care Payment Plan.
