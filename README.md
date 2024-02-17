@@ -7,9 +7,8 @@ A copy of my C.V. can be found [here](assets/img/website_CV_2.pdf). (Last update
 
 ## Work in Progress
 1. Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen. [Tensor Completion via Integer Optimization](https://arxiv.org/abs/2402.05141).
+##### (\* equal contribution)
 
-(\* equal contribution)
+4. Xin Chen, Cheng Ren, Tim Thomas. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums.
 
-3. Xin Chen, Cheng Ren, Tim Thomas. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums.
-
-4. Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. Optimizing End-of-Life Care Payment Plan.
+5. Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. Optimizing End-of-Life Care Payment Plan.
