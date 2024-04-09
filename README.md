@@ -10,4 +10,4 @@ A copy of my C.V. can be found [here](assets/img/website_CV_2.pdf). (Last update
 
 2.  Xin Chen, Cheng Ren, Tim Thomas. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums.
 
-3.   Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. Optimizing End-of-Life Care Payment Plan.
+3.   Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. [Optimal Contract Design for End-of-Life Care Payments](https://arxiv.org/abs/2403.15099).
