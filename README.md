@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cf820f3b-14cc-4d37-86a0-a7b67242203d)## About Me
+## About Me
 
 I am currently a senior at UC Berkeley majoring in Industrial Engineering and Operations Research. At Berkeley, I am fortunate to conduct research under the supervision of [Anil Aswani](https://vcresearch.berkeley.edu/faculty/anil-aswani), [Abhishek Nagaraj](https://www.abhishekn.com), and [Cheng Ren](https://www.albany.edu/ssw/faculty/cheng-ren). I will be joining Stanford management science & engineering as an incoming PhD student this fall.
 
