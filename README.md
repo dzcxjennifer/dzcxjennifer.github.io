@@ -8,7 +8,7 @@ A copy of my C.V. can be found [here](assets/img/website_CV_2.pdf). (Last update
 ## Publications 
 1. Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei and Anil Aswani. [Optimal Contract Design for End-of-Life Care Payments](https://arxiv.org/abs/2403.15099). 2024 Conference on Decision and Control.
 
-2. Xin Chen, Malini Mahendra, Anil Aswani. “Fair Logistic Regression for Intracranial Pressure Monitoring Assignment”. 2024 American Medical Informatics Association (AMIA) Annual Symposium. (Poster)
+2. Xin Chen, Malini Mahendra, Anil Aswani. “Fair Logistic Regression for Intracranial Pressure Monitoring Assignment”. 2024 AMIA Annual Symposium. (Poster)
 
 
 ## Working Papers
