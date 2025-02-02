@@ -11,5 +11,5 @@ I am a first year PhD student in Operations Research at Stanford University. I r
 
 4. Ren, C., Thomas, T. A., Chen, X., & ZHOU, L. [What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction](https://doi.org/10.31219/osf.io/uscxh_v1).
 
-5. Xin Chen, Malini Mahendra, Anil Aswani. “Fair Logistic Regression for Intracranial Pressure Monitoring Assignment”. 2024 AMIA Annual Symposium. (Poster)
+5. Xin Chen, Malini Mahendra, Anil Aswani. “Fair Logistic Regression for Intracranial Pressure Monitoring Assignment”. 2024 AMIA Annual Symposium. ([Poster](https://knowledge.amia.org/A2024/indexes))
 
