@@ -4,21 +4,21 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 
 ## Research
 1. Tensor Completion via Integer Optimization \
-**Xin Chen**\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen\
+Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen\
 ([preprint](https://arxiv.org/abs/2402.05141))
 
 2. Optimal Contract Design for End-of-Life Care Payments \
-Muyan Jiang, Ying Chen, **Xin Chen**, Javad Lavaei, Anil Aswani \
+Muyan Jiang, Ying Chen, Xin Chen, Javad Lavaei, Anil Aswani \
 2024 IEEE Conference on Decision and Control. ([paper](https://arxiv.org/abs/2403.15099))
   
 3. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums \
-**Xin Chen**, Cheng Ren, Tim Thomas \
+Xin Chen, Cheng Ren, Tim Thomas \
 Accepted by Journal of Computational Social Science. ([paper](https://arxiv.org/abs/2404.11681))
 
 4. What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction  \
-Ren, C., Thomas, T. A., **Chen, X.**, & ZHOU, L \
+Ren, C., Thomas, T. A., Chen, X., & ZHOU, L \
 ([preprint](https://doi.org/10.31219/osf.io/uscxh_v1))
 
 5. Fair Logistic Regression for Intracranial Pressure Monitoring Assignment.\
-**Xin Chen**, Malini Mahendra, Anil Aswani \
+Xin Chen, Malini Mahendra, Anil Aswani \
 2024 AMIA Annual Symposium. ([Poster](https://knowledge.amia.org/A2024/indexes))
