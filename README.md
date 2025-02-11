@@ -3,7 +3,7 @@ I am a first year PhD student in Operations Research at Stanford University.
 I received my bachelor's degree in Industrial Engineering and Operations Research from UC Berkeley, where I was fortunate to conduct research under the supervision of [Anil Aswani](https://vcresearch.berkeley.edu/faculty/anil-aswani), [Abhishek Nagaraj](https://www.abhishekn.com), and [Cheng Ren](https://www.albany.edu/ssw/faculty/cheng-ren).
 
 # Research
-[Google Scholar](https://scholar.google.com/citations?user=4XX8cGwAAAAJ&hl=en), [ORCID](https://orcid.org/0009-0004-8781-3916)
+[[Google Scholar](https://scholar.google.com/citations?user=4XX8cGwAAAAJ&hl=en)] [[ORCID](https://orcid.org/0009-0004-8781-3916)]
 1. Tensor Completion via Integer Optimization \
 Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen\
 ([preprint](https://arxiv.org/abs/2402.05141))
