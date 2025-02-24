@@ -17,7 +17,7 @@ Xin Chen, Cheng Ren, Tim Thomas \
 Accepted by Journal of Computational Social Science. ([paper](https://arxiv.org/abs/2404.11681))
 
 4. What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction  \
-Ren, C., Thomas, T. A., Chen, X., & ZHOU, L \
+Cheng Ren, Tim Thomas, Xin Chen, & Leyi Zhou \
 ([preprint](https://doi.org/10.31219/osf.io/uscxh_v1))
 
 5. Fair Logistic Regression for Intracranial Pressure Monitoring Assignment.\
