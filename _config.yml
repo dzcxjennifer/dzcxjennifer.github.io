@@ -4,11 +4,11 @@ logo:: <img src="/assets/img/profile.JPG" style="width:100px; height:auto;" />
 #description: text below image
 #show_downloads: false
 theme: jekyll-theme-minimal
-markdown: kramdown
+# markdown: kramdown
 
-# Custom CSS
-sass:
-  style: compressed
+# # Custom CSS
+# sass:
+#   style: compressed
 
-include:
-  - assets/style.css
+# include:
+#   - assets/style.css
