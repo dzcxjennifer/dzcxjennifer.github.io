@@ -4,7 +4,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 
 # Research
 [[Google Scholar](https://scholar.google.com/citations?user=4XX8cGwAAAAJ&hl=en)] [[ORCID](https://orcid.org/0009-0004-8781-3916)]
-(* indicates alphabetical)
+(* indicates alphabetical order)
 ## Pre-prints
 1. Tensor Completion via Integer Optimization \
 Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen\
