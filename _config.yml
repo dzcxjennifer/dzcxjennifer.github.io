@@ -1,6 +1,5 @@
 title: Xin (Jennifer) Chen
-#logo: /assets/img/profile.JPG
-logo: <img src="/assets/img/profile.JPG" style="width:100px; height:auto;" />
+logo: /assets/img/profile.JPG
 #description: text below image
 #show_downloads: false
 theme: jekyll-theme-minimal
