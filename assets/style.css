@@ -1,4 +1,4 @@
-img[alt="logo"] {
-  width: 100px;   /* adjust as needed */
-  height: auto;   /* maintains aspect ratio */
+img[alt="Profile Picture"] {
+  max-width: 50px;
+  height: auto;
 }
