@@ -9,5 +9,5 @@ theme: jekyll-theme-minimal
 # sass:
 #   style: compressed
 
-# include:
-#   - assets/style.css
+include:
+- assets/style.css
