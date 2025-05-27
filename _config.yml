@@ -1,13 +1,13 @@
 title: Xin (Jennifer) Chen
 logo: /assets/img/profile.JPG
-#description: text below image
+description: jenxchen (at) stanford (dot) edu
 #show_downloads: false
 theme: jekyll-theme-minimal
-# markdown: kramdown
+markdown: kramdown
 
 # # Custom CSS
-# sass:
-#   style: compressed
+sass:
+  style: compressed
 
 include:
 - assets/style.css
