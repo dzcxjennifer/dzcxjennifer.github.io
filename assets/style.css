@@ -3,3 +3,8 @@ img[alt="/assets/img/profile.JPG"]
   max-width: 50px;
   height: auto;
 }
+
+/* Reduce vertical spacing below the main title */
+header h1 {
+  margin-bottom: 10px;  /* adjust as needed */
+}
