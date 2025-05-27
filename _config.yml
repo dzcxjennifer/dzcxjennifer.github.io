@@ -1,6 +1,7 @@
 title: Xin (Jennifer) Chen
 logo: /assets/img/profile.JPG
 description: jenxchen (at) stanford (dot) edu
+avatar           : "/assets/img/profile.JPG"
 #show_downloads: false
 theme: jekyll-theme-minimal
 markdown: kramdown
