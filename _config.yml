@@ -1,7 +1,8 @@
 title: Xin (Jennifer) Chen
-# logo: /assets/img/profile.JPG
+# logo: /assets/img/profile.JPG 
+logo: <img src="/assets/img/profile.JPG" alt="profile picture" style="width:150px; border-radius:50%;">
 description: jenxchen (at) stanford (dot) edu
-avatar           : "/assets/img/profile.JPG"
+
 #show_downloads: false
 theme: jekyll-theme-minimal
 markdown: kramdown
