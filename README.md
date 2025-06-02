@@ -1,7 +1,7 @@
 # About
 I am a first year PhD student in Operations Research at Stanford University. 
 
-I received my bachelor's degree in Industrial Engineering and Operations Research from UC Berkeley, where I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
+I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley. During undergrad, I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
 # Research 
 <h2>
