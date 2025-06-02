@@ -11,7 +11,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
   </span>
 </h2>
 1. Tensor Completion via Integer Optimization \
-Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen\
+Xin Chen\*, Sukanya Kudva\*, Yongzheng Dai, Anil Aswani, Chen Chen \
 ([preprint](https://arxiv.org/abs/2402.05141))
 
 2. What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction  \
