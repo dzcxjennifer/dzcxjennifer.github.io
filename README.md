@@ -6,7 +6,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 # Research 
 <h2>
   Pre-prints
-  <span style="font-weight: normal; font-size: 1rem; margin-left: 10px;">
+  <span style="font-weight: normal; font-size: 0.75rem; margin-left: 10px;">
     (* indicates alphabetical order)
   </span>
 </h2>
