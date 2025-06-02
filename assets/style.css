@@ -8,3 +8,7 @@ img[alt="/assets/img/profile.JPG"]
 header h1 {
   margin-bottom: 10px;  /* adjust as needed */
 }
+
+.sidebar {
+  width: 220px;
+}
