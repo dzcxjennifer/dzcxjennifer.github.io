@@ -25,7 +25,7 @@ IEEE Conference on Decision and Control (2024). ([paper](https://ieeexplore.ieee
   
 2. Evaluating Tenant-Landlord Tensions Using Generative AI on Online Tenant Forums \
 Xin Chen, Cheng Ren, Tim Thomas \
-Journal of Computational Social Science (2025). ([paper]((https://link.springer.com/article/10.1007/s42001-025-00378-8))
+Journal of Computational Social Science (2025). ([paper](https://link.springer.com/article/10.1007/s42001-025-00378-8))
 
 ## Other
 1. Fair Logistic Regression for Intracranial Pressure Monitoring Assignment.\
