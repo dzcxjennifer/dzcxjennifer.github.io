@@ -30,7 +30,7 @@ IEEE Conference on Decision and Control (2024). ([paper](https://ieeexplore.ieee
   
 
 
-## Other
+## Presentations
 1. Fair Logistic Regression for Intracranial Pressure Monitoring Assignment.\
 Xin Chen, Malini Mahendra, Anil Aswani \
 2024 AMIA Annual Symposium. ([Poster](https://knowledge.amia.org/A2024/indexes))
