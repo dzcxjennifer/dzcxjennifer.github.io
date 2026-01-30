@@ -12,7 +12,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 </h2>
 
 1. What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction  \
-Cheng Ren, Tim Thomas, Xin Chen, & Leyi Zhou \
+Cheng Ren, Tim Thomas, Xin Chen, Leyi Zhou \
 ([preprint](https://doi.org/10.31219/osf.io/uscxh_v1))
 
 ## Publications
