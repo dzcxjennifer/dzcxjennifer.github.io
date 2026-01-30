@@ -1,5 +1,5 @@
 # About
-I am a second year PhD student in Operations Research at Stanford University. 
+I am a second year PhD student in Operations Research at Stanford University, fortunate to be advised by Itai Ashlagi.
 
 I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley. During undergrad, I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
