@@ -3,20 +3,15 @@ I am a second year PhD student in Operations Research at Stanford University.
 
 I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley. During undergrad, I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
-# Research 
+
 <h1>
   Research
   <span style="font-weight: normal; font-size: 0.75rem; margin-left: 10px;">
     (* indicates alphabetical order)
   </span>
 </h1>
-<h2>
-  Pre-prints
-  <span style="font-weight: normal; font-size: 0.75rem; margin-left: 10px;">
-    (* indicates alphabetical order)
-  </span>
-</h2>
 
+## Pre-prints
 1. Gaussian Process Bandit Optimization with Machine Learning Predictions and Application to Hypothesis Generation \
 Xin Jennifer Chen\*, Yunjin Tong\* \
 ([link](https://drive.google.com/file/d/1JpuMiXvYFpZxIV93gmlsgM0rlSTIn0nj/view?usp=sharing))
