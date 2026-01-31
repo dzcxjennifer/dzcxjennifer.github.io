@@ -12,7 +12,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 </h2>
 
 1. Gaussian Process Bandit Optimization with Machine Learning Predictions and Application to Hypothesis Generation \
-Xin Jennifer Chen\*, Yunjin Tong\*
+Xin Jennifer Chen\*, Yunjin Tong\* \
 ([link](https://drive.google.com/file/d/1JpuMiXvYFpZxIV93gmlsgM0rlSTIn0nj/view?usp=sharing))
 
 3. What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction  \
