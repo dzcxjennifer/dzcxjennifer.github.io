@@ -4,6 +4,12 @@ I am a second year PhD student in Operations Research at Stanford University.
 I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley. During undergrad, I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
 # Research 
+<h1>
+  Research
+  <span style="font-weight: normal; font-size: 0.75rem; margin-left: 10px;">
+    (* indicates alphabetical order)
+  </span>
+</h1>
 <h2>
   Pre-prints
   <span style="font-weight: normal; font-size: 0.75rem; margin-left: 10px;">
