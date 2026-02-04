@@ -13,11 +13,11 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 
 ### Pre-prints
 1. [Gaussian Process Bandit Optimization with Machine Learning Predictions and Application to Hypothesis Generation](https://www.arxiv.org/abs/2601.22315) \
-Xin Jennifer Chen\*, Yunjin Tong\* \
+Xin Jennifer Chen\*, Yunjin Tong\* 
 
 
 3. [What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction](https://doi.org/10.31219/osf.io/uscxh_v1)  \
-Cheng Ren, Tim Thomas, Xin Chen, Leyi Zhou \
+Cheng Ren, Tim Thomas, Xin Chen, Leyi Zhou 
 
 ### Publications
 1. [Tensor Completion via Integer Optimization](https://arxiv.org/abs/2402.05141) \
