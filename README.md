@@ -1,5 +1,5 @@
 # About
-I am a second year PhD student in Operations Research at Stanford University. My research focuses on market design, matching markets, and optimization, complemented by empirical studies. A major motivating application is organ allocation. 
+I am a second year PhD student in Operations Research at Stanford University. My research focuses on market design, matching markets, and optimization, complemented by empirical studies. 
 
 I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley, where I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
