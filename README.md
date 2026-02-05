@@ -1,7 +1,7 @@
 # About
 I am a second year PhD student in Operations Research at Stanford University.
 
-I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley. During undergrad, I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
+I received my bachelor's degree in Industrial Engineering and Operations Research (with Departmental Citation) from UC Berkeley, where I was fortunate to conduct research under the supervision of Anil Aswani, Abhishek Nagaraj, and Cheng Ren.
 
 
 <h1>
@@ -10,6 +10,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
     (* indicates alphabetical order)
   </span>
 </h1>
+My research focuses on market design, matching markets, and optimization, complemented by empirical studies. A major motivating application is organ allocation. 
 
 ### Pre-prints
 1. [Gaussian Process Bandit Optimization with Machine Learning Predictions and Application to Hypothesis Generation](https://www.arxiv.org/abs/2601.22315) \
