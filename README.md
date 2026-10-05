@@ -14,7 +14,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 ### Selected Work In Progress
 1. Matching under Deteriorating Quality
 Itai Ashlagi*, Xin Jennifer Chen*, Angela Kohlenberg*\
-- INFORMS Healthcare 2026
+&ensp; - INFORMS Healthcare 2026
 
 ### Publications
 1. On the Parallel Optimality of Exponentiated Gradient Descent \
