@@ -13,16 +13,16 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 
 ### Selected Work In Progress
 1. Matching under Deteriorating Quality \
-Itai Ashlagi*, Xin Jennifer Chen*, Angela Kohlenberg*\
+Itai Ashlagi\*, Xin Jennifer Chen\*, Angela Kohlenberg\*\
 &ensp; - INFORMS Healthcare 2026
 
 ### Publications
 1. On the Parallel Optimality of Exponentiated Gradient Descent \
-Xin Jennifer Chen*, Andrei Graur*, Aaron Sidford* \
+Xin Jennifer Chen\*, Andrei Graur\*, Aaron Sidford\* \
 NeurIPS 2026.
 
 3. Towards Settling the Complexity of Non-Euclidean Parallel Convex Optimization \
-Xin Jennifer Chen*, Andrei Graur*, Aaron Sidford*, Chenyi Zhang* \
+Xin Jennifer Chen\*, Andrei Graur\*, Aaron Sidford\*, Chenyi Zhang\* \
 NeurIPS 2026.
 
 4. [What Lies Behind the Answers: Applying Machine Learning to Understand Tenants’ Reaction to Eviction](https://doi.org/10.31219/osf.io/uscxh_v1)  \
