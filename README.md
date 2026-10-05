@@ -12,7 +12,7 @@ I received my bachelor's degree in Industrial Engineering and Operations Researc
 </h1>
 
 ### Selected Work In Progress
-1. Matching under Deteriorating Quality
+1. Matching under Deteriorating Quality \
 Itai Ashlagi*, Xin Jennifer Chen*, Angela Kohlenberg*\
 &ensp; - INFORMS Healthcare 2026
 
